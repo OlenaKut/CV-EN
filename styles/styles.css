@@ -1,6 +1,6 @@
 body {
   font-family: "Montserrat", sans-serif;
-  background-color: #f5f7fa;
+  background-color: #f0f4f7;
 }
 
 /* main styles */
@@ -8,13 +8,13 @@ body {
   display: flex;
   flex-direction: row-reverse;
   width: 1400px;
-  margin: 10px auto;
+  margin: 16px;
 }
 
 .main-content {
   background-color: #ffffff;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-  padding: 24px 32px 0;
+  padding: 44px;
 }
 
 /* about styles */
@@ -171,6 +171,9 @@ body {
 }
 
 /* education */
+.education {
+  margin-top: 44px;
+}
 .university {
   font-style: normal;
   font-weight: 700;
