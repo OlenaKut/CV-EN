@@ -14,12 +14,12 @@ body {
 .main-content {
   background-color: #ffffff;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-  padding: 15px 30px 0;
+  padding: 24px 32px 0;
 }
 
 /* about styles */
 .about {
-  margin-bottom: 10px;
+  margin-bottom: 16px;
 }
 
 .about-position {
@@ -35,8 +35,9 @@ body {
   font-weight: 700;
   font-size: 48px;
   line-height: 55px;
-  color: #000000;
-  margin-bottom: 15px;
+  color: #474443;
+  margin-bottom: 24px;
+  margin-top: 24px;
 }
 
 .about-discription {
@@ -51,10 +52,10 @@ body {
 
 .title {
   font-style: normal;
-  font-weight: 700;
+  font-weight: 600;
   font-size: 32px;
   line-height: 27px;
-  color: #000000;
+  color: #474443;
   margin: 40px 0;
 }
 
@@ -99,11 +100,12 @@ body {
 
 .work-position {
   font-style: normal;
-  font-weight: 700;
+  font-weight: 600;
   font-size: 24px;
   line-height: 20px;
   color: #000000;
   margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 .internship {
@@ -155,7 +157,7 @@ body {
   font-weight: 600;
   font-size: 18px;
   line-height: 28px;
-  color: #c43f0f;
+  color: #474443;
 }
 .framework {
   font-weight: 600;
@@ -174,7 +176,8 @@ body {
   font-weight: 700;
   font-size: 20px;
   line-height: 40px;
-  color: #c43f0f;
+  color: #000000;
+  margin-bottom: 0px;
 }
 
 .specialty {
@@ -185,12 +188,18 @@ body {
   color: #000000;
 }
 
+.ostrog {
+  color: #c43f0f;
+  margin-top: -8px;
+  margin-bottom: 8px;
+}
+
 /* sidebar styles */
 
 .sidebar {
   padding-top: 30px;
   width: 300px;
-  height: 1950px;
+  margin-right: 8px;
 }
 
 .photo {
@@ -204,7 +213,7 @@ body {
   font-weight: 700;
   font-size: 22px;
   line-height: 27px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   color: #c43f0f;
 }
 
@@ -213,7 +222,6 @@ body {
 .soft-skills {
   margin-left: 20px;
 }
-
 
 .contact-type {
   font-style: normal;
@@ -258,7 +266,9 @@ body {
   color: #474443;
 }
 
-.line {
-  font-weight: 800;
-  color: #474443;
+
+
+.language-item {
+  font-weight: 600;
+   color: #474443;
 }
