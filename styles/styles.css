@@ -6,7 +6,7 @@ body {
 .main {
   display: flex;
   flex-direction: row-reverse;
-  width: 1400px;
+  width: 1600px;
   margin-right: 16px;
 }
 
@@ -199,7 +199,6 @@ body {
 /* sidebar styles */
 
 .sidebar {
-  padding-top: 30px;
   width: 260px;
   margin-right: 16px;
 }
@@ -207,7 +206,6 @@ body {
 .photo {
   width: 260px;
   margin-bottom: 30px;
-  margin-top: -16px;
   box-shadow: 4px 6px 20px rgba(0, 0, 0, 0.5);
 }
 
@@ -223,7 +221,7 @@ body {
 .contacts,
 .tech-skills,
 .soft-skills {
-  margin-left: 20px;
+ 
 }
 
 .contact-type {
