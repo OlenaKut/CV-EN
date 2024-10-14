@@ -6,14 +6,14 @@ body {
 .main {
   display: flex;
   flex-direction: row-reverse;
-  width: 1600px;
+  width: 1300px;
   margin-right: 16px;
 }
 
 .main-content {
   background-color: #ffffff;
   box-shadow: 4px 6px 20px rgba(0, 0, 0, 0.5);
-  padding: 0 28px;
+  padding: 12px 28px;
 }
 
 /* about styles */
@@ -195,11 +195,13 @@ body {
 .sidebar {
   width: 260px;
   margin-right: 16px;
+  margin-left: 16px;
 }
 
 .photo {
   width: 260px;
   margin-bottom: 30px;
+  margin-top: 12px;
   box-shadow: 4px 6px 20px rgba(0, 0, 0, 0.5);
 }
 
@@ -215,7 +217,6 @@ body {
 .contacts,
 .tech-skills,
 .soft-skills {
- 
 }
 
 .contact-type {
