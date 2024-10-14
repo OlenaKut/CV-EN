@@ -266,9 +266,12 @@ body {
   color: #474443;
 }
 
-
+.line {
+  font-weight: 800;
+  color: #474443;
+}
 
 .language-item {
   font-weight: 600;
-   color: #474443;
+  color: #474443;
 }
