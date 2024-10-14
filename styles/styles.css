@@ -56,7 +56,6 @@ body {
   line-height: 27px;
   color: #474443;
   margin: 32px 0;
-  text-decoration: underline;
 }
 
 .projects-list {
@@ -105,7 +104,7 @@ body {
   line-height: 20px;
   color: #000000;
   margin-bottom: 20px;
-  margin-top: 20px;
+  margin-top: 28px;
 }
 
 .internship {
