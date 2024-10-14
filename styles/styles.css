@@ -6,7 +6,7 @@ body {
 .main {
   display: flex;
   flex-direction: row-reverse;
-  width: 1300px;
+  width: 1400px;
   margin-right: 16px;
 }
 
@@ -195,7 +195,6 @@ body {
 .sidebar {
   width: 260px;
   margin-right: 16px;
-  margin-left: 16px;
 }
 
 .photo {
